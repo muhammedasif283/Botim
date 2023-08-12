@@ -1,0 +1,254 @@
+body{
+    margin: 0%;
+}
+.first-box{
+    width: 100%;
+    height: 70px;
+}
+.logo{
+    width: 123px;
+    margin-left: 185px;
+    margin-top: 24px;
+}
+.font{
+    font-family: verdana;
+    font-size: 16px;
+    color: rgb(58, 52, 52);
+}
+.main-box{
+    width: 100%;
+    height: 70px;
+    color: #3f3636;
+}
+.p6{
+    width: 50px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 940px;
+    font-family: verdana;
+    font-size: 14px;
+    color: gray;
+}
+.p1{
+    margin-left: 525px;
+    margin-top: -35px; 
+    font-family: verdana;
+    font-size: 16px; 
+}
+.p2{
+    margin-left: 620px;
+    margin-top: -35px;
+    font-family: verdana;
+    font-size: 16px;
+}
+.p3{
+    margin-left: 745px;
+    margin-top: -35px;
+    font-family: verdana;
+    font-size: 16px;
+}
+.p4{
+  
+    margin-left: 890px;
+    margin-top: -34px;
+    font-family: verdana;
+    font-size: 16px;
+}
+.p5{
+    margin-left: 1045px;
+    margin-top: -35px;
+    font-family: verdana;
+    font-size: 16px;
+}
+.main-heading{
+    padding-top: 100px;
+    font-size: 35px;
+    font-weight: 800;
+    line-height: 50px;
+    margin-bottom: 12px;
+    letter-spacing: 0.01em;
+    font-family: verdana;
+    margin-left: 280px;
+}
+.second-box{
+    width: 100%;
+    height: 700px;
+    background-color:#fff;
+}
+.paragraph{
+   font-family: verdana;
+    margin-left: 280px;
+}
+.paragraph2{
+   font-family: verdana;
+    margin-left: 280px;
+    font-size: 11px;
+}
+.img{
+    margin-left: 800px;
+    margin-top: -420px;
+    width: 460px;
+}
+.link{
+    font-family: verdana;
+    text-decoration: none;
+    color: rgb(26,115,232);
+    font-size: 13px;
+
+}
+.link2{
+    font-family: verdana;
+    text-decoration: none;
+    color: rgb(26,115,232);
+    font-size: 13px;
+
+}
+.link3{
+    font-family: verdana;  
+    text-decoration: none;
+    color: rgb(26,115,232);
+    font-size: 13px;
+    margin-left: 7px;
+
+}
+.link4{
+    font-family: verdana;
+    text-decoration: none;
+    color: rgb(26,115,232);
+    font-size: 13px;
+
+}
+.third-box{
+    background-color: #f4f5f5;
+    width: 100%;
+    height: 920px;
+    margin-top: 160px;
+}
+.img2{
+    width: 1060px;
+    margin-left: 210px;
+    padding-top: 60px;
+}
+.button{
+    height: 74px;
+    width: 355px;
+    max-width: 355px;
+    line-height: 70px;
+    font-weight: 600;
+    height: 74px;
+    width: 355px;
+    max-width: 355px;
+    line-height: 70px;
+    font-weight: 600;
+}
+
+.button-link{
+    color: #007ee5;
+    max-width: 355px;
+    line-height: 48px;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: .01em;
+    text-decoration: none;
+} 
+.button{
+    border: 1px solid #007ee5;
+    width: 340px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 575px;
+    margin-top: 90px;
+    cursor: pointer;
+}
+.fourth-box-part1{
+    font-family: verdana;
+    background-color: #313233;
+    font-size: 14px;
+    color: #bfbfbf;
+    letter-spacing: .01em;
+    padding-left: 190px;
+    padding-top: 40px;
+    width: 311px;
+    height: 245px;
+}
+.fourth-box-part2{
+    font-family: verdana;
+    background-color: #313233;
+    font-size: 14px;
+    color: #bfbfbf;
+    letter-spacing: .01em;
+    padding-left: 230px;
+    padding-top: 40px;
+    width: 235px;
+    height: 245px;
+    margin-left: 310px;
+    margin-top: -285px;
+
+
+}
+.fourth-box-part3{
+    font-family: verdana;
+    background-color: #313233;
+    font-size: 14px;
+    color: #bfbfbf;
+    letter-spacing: .01em;
+    padding-left: 230px;
+    padding-top: 40px;
+    width: 550px;
+    height: 245px;
+    margin-left: 685px;
+    margin-top: -285px;
+}
+.h1{
+    text-decoration: none;
+    font-family: monospace;
+    color: gray;
+    cursor: pointer;
+    line-height: 30px;
+}
+.h2{
+    text-decoration: none;
+    font-family: monospace;
+    color: gray;
+    cursor: pointer;
+    line-height: 30px;
+}
+.h3{
+    text-decoration: none;
+    font-family: monospace;
+    color: gray;
+    cursor: pointer;
+    line-height: 30px;
+}
+.bottom-box{
+    background-color: black;
+    margin-top: -16px;
+    height: 50px;
+    padding-top: 30px;
+}
+
+.bottom-h1 {
+    text-decoration: none;
+    font-family: monospace;
+    color: gray;
+    cursor: pointer;
+    margin-left: 190px;
+
+}
+.bottom-h2{
+    text-decoration: none;
+    font-family: monospace;
+    color: gray;
+    cursor: pointer;
+    margin-left: 265px;
+}
+
+.bottom-h3{
+    font-family: monospace;
+    color: gray;
+    text-decoration: none;
+    margin-left: 265px;
+}
+a:hover{
+  color: #007ee5;
+}
